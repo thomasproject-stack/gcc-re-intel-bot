@@ -1,0 +1,4 @@
+# GCC Real Estate Intelligence Bot — runtime dependencies
+feedparser>=6.0        # RSS / Atom parsing (Tier 1 + Google News RSS proxy)
+requests>=2.31         # HTTP for gov portals, Reddit .json, Telegram, OpenRouter
+beautifulsoup4>=4.12   # HTML parsing for official-data + forum tiers
